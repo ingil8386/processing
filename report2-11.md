@@ -1,3 +1,4 @@
+```
 void setup() {
   size(800, 300);
   textSize(70);
@@ -14,3 +15,4 @@ void draw() {
 void keyPressed() {
   sp = key-'0';
 }
+```
